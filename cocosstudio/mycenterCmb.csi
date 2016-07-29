@@ -1,0 +1,40 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="mycenterCmb" ID="00e28581-4c11-4a0a-bbd4-05abef408964" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="mycenter/btn_changeNickName.png" />
+      <FilePathData Path="mycenter/btn_DH.png" />
+      <FilePathData Path="mycenter/btn_experience_nromal.png" />
+      <FilePathData Path="mycenter/btn_myPrivilege_normal.png" />
+      <FilePathData Path="mycenter/btn_myPrivilege_select.png" />
+      <FilePathData Path="mycenter/btn_selfcenter_normal.png" />
+      <FilePathData Path="mycenter/btn_selfcenter_select.png" />
+      <FilePathData Path="mycenter/changeuser_normal.png" />
+      <FilePathData Path="mycenter/choose_head.png" />
+      <FilePathData Path="mycenter/head_buttom.png" />
+      <FilePathData Path="mycenter/icon_0_0.png" />
+      <FilePathData Path="mycenter/icon_0_1.png" />
+      <FilePathData Path="mycenter/icon_1_0.png" />
+      <FilePathData Path="mycenter/icon_1_1.png" />
+      <FilePathData Path="mycenter/icon_2_0.png" />
+      <FilePathData Path="mycenter/icon_2_1.png" />
+      <FilePathData Path="mycenter/icon_3_0.png" />
+      <FilePathData Path="mycenter/icon_3_1.png" />
+      <FilePathData Path="mycenter/icon_4_0.png" />
+      <FilePathData Path="mycenter/icon_4_1.png" />
+      <FilePathData Path="mycenter/icon_5_0.png" />
+      <FilePathData Path="mycenter/icon_5_1.png" />
+      <FilePathData Path="mycenter/icon_6_0.png" />
+      <FilePathData Path="mycenter/icon_6_1.png" />
+      <FilePathData Path="mycenter/icon_7_0.png" />
+      <FilePathData Path="mycenter/icon_7_1.png" />
+      <FilePathData Path="mycenter/icon_bg_black.png" />
+      <FilePathData Path="mycenter/icon_bg_normal.png" />
+      <FilePathData Path="mycenter/my_privilege.png" />
+      <FilePathData Path="mycenter/myCenter_coin_bg.png" />
+      <FilePathData Path="mycenter/self_title.png" />
+      <FilePathData Path="mycenter/selfinfo_vip_sign.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

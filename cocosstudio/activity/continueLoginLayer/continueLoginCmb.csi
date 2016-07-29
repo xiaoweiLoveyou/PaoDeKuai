@@ -1,0 +1,23 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="continueLoginCmb" ID="c4be5bde-1b8c-4315-b669-1b53e19624aa" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="activity/continueLoginLayer/continue_btnGet_F.png" />
+      <FilePathData Path="activity/continueLoginLayer/continue_btnGet_N.png" />
+      <FilePathData Path="activity/continueLoginLayer/continue_imgAward_1.png" />
+      <FilePathData Path="activity/continueLoginLayer/continue_imgAward_2.png" />
+      <FilePathData Path="activity/continueLoginLayer/continue_imgAward_3.png" />
+      <FilePathData Path="activity/continueLoginLayer/continue_imgAward_4.png" />
+      <FilePathData Path="activity/continueLoginLayer/continue_imgAward_5.png" />
+      <FilePathData Path="activity/continueLoginLayer/continue_imgAwardBg_1.png" />
+      <FilePathData Path="activity/continueLoginLayer/continue_imgAwardBg_2.png" />
+      <FilePathData Path="activity/continueLoginLayer/continue_imgDateBg.png" />
+      <FilePathData Path="activity/continueLoginLayer/continue_imgDays.png" />
+      <FilePathData Path="activity/continueLoginLayer/continue_imgHasGetAward.png" />
+      <FilePathData Path="activity/continueLoginLayer/continue_imgTipBg.png" />
+      <FilePathData Path="activity/continueLoginLayer/continue_btnGet_N1.png" />
+      <FilePathData Path="activity/continueLoginLayer/task_btn_N1.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

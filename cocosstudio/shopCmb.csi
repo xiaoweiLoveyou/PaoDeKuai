@@ -1,0 +1,30 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="shopCmb" ID="81018889-6a90-4f70-90a8-2be7633fd398" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="shop/shop_btn_douN.png" />
+      <FilePathData Path="shop/shop_btn_douS.png" />
+      <FilePathData Path="shop/shop_btn_svipN.png" />
+      <FilePathData Path="shop/shop_btn_svipS.png" />
+      <FilePathData Path="shop/shop_coin_1.png" />
+      <FilePathData Path="shop/shop_coin_2.png" />
+      <FilePathData Path="shop/shop_coin_3.png" />
+      <FilePathData Path="shop/shop_coin_4.png" />
+      <FilePathData Path="shop/shop_coin_5.png" />
+      <FilePathData Path="shop/shop_coin_6.png" />
+      <FilePathData Path="shop/shop_item_icon.png" />
+      <FilePathData Path="shop/shop_item_svip.png" />
+      <FilePathData Path="shop/shop_itemBg.png" />
+      <FilePathData Path="shop/shop_svip.png" />
+      <FilePathData Path="shop/shop_svip_leftBg.png" />
+      <FilePathData Path="shop/shop_svip_rightBg.png" />
+      <FilePathData Path="shop/shop_svip_tipBg.png" />
+      <FilePathData Path="shop/shop_svip_title.png" />
+      <FilePathData Path="shop/shop_type_1.png" />
+      <FilePathData Path="shop/shop_coin_bg.png" />
+      <FilePathData Path="shop/shop_type_2.png" />
+      <FilePathData Path="shop/mid_bg.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

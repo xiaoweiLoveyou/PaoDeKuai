@@ -1,0 +1,20 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="UserdetailCmb" ID="384e8a8c-3ab4-4320-85bd-0f6683408b53" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Userdetail/userdetail_bg.png" />
+      <FilePathData Path="Userdetail/userdetail_coinbg.png" />
+      <FilePathData Path="Userdetail/userdetail_toolbg.png" />
+      <FilePathData Path="Userdetail/userdetail_toolitemone.png" />
+      <FilePathData Path="Userdetail/userdetail_toolTittle.png" />
+      <FilePathData Path="Userdetail/gameNotice.png" />
+      <FilePathData Path="Userdetail/head_bg.png" />
+      <FilePathData Path="Userdetail/user_detail_lady.png" />
+      <FilePathData Path="Userdetail/user_detail_man.png" />
+      <FilePathData Path="Userdetail/vip_sign.png" />
+      <FilePathData Path="Userdetail/word_playerinfo.png" />
+      <FilePathData Path="Userdetail/black_bg.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,48 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="turnTableCmb" ID="fa94daab-d956-4c5f-b213-c27e9e9b9bbc" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="turnTable/btn_TurnStart1.png" />
+      <FilePathData Path="turnTable/btn_TurnStart2.png" />
+      <FilePathData Path="turnTable/img_Turn10.png" />
+      <FilePathData Path="turnTable/img_Turn30.png" />
+      <FilePathData Path="turnTable/img_Turn50.png" />
+      <FilePathData Path="turnTable/img_TurnBom.png" />
+      <FilePathData Path="turnTable/img_TurnCoin.png" />
+      <FilePathData Path="turnTable/img_TurnDi1.png" />
+      <FilePathData Path="turnTable/img_TurnDi2.png" />
+      <FilePathData Path="turnTable/img_TurnDi3.png" />
+      <FilePathData Path="turnTable/img_TurnDJ.png" />
+      <FilePathData Path="turnTable/img_TurnM.png" />
+      <FilePathData Path="turnTable/img_TurnNormal.png" />
+      <FilePathData Path="turnTable/img_TurnRes1.png" />
+      <FilePathData Path="turnTable/img_TurnRes2.png" />
+      <FilePathData Path="turnTable/img_TurnSelect.png" />
+      <FilePathData Path="turnTable/img_TurnStone.png" />
+      <FilePathData Path="turnTable/img_TurnTable.png" />
+      <FilePathData Path="turnTable/img_TurnUnable.png" />
+      <FilePathData Path="turnTable/again_1.png" />
+      <FilePathData Path="turnTable/again_2.png" />
+      <FilePathData Path="turnTable/coin_1.png" />
+      <FilePathData Path="turnTable/coin_2.png" />
+      <FilePathData Path="turnTable/coin_3.png" />
+      <FilePathData Path="turnTable/itemBg_1.png" />
+      <FilePathData Path="turnTable/itemBg_2.png" />
+      <FilePathData Path="turnTable/itemBg_3.png" />
+      <FilePathData Path="turnTable/itemBg_4.png" />
+      <FilePathData Path="turnTable/itemBg_5.png" />
+      <FilePathData Path="turnTable/rule.png" />
+      <FilePathData Path="turnTable/thankYou.png" />
+      <FilePathData Path="turnTable/vip.png" />
+      <FilePathData Path="turnTable/againBg_1.png" />
+      <FilePathData Path="turnTable/againBg_3.png" />
+      <FilePathData Path="turnTable/coinBig_1.png" />
+      <FilePathData Path="turnTable/coinBig_2.png" />
+      <FilePathData Path="turnTable/coinBig_3.png" />
+      <FilePathData Path="turnTable/vip_big.png" />
+      <FilePathData Path="turnTable/thankYou_big.png" />
+      <FilePathData Path="turnTable/img_TurnTable_S.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

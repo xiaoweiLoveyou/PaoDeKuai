@@ -1,0 +1,36 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="levelCmb" ID="a4e83ec7-5af3-47e7-8a4c-c52e9348bc4e" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="level/level_big_star.png" />
+      <FilePathData Path="level/level_challing_flag.png" />
+      <FilePathData Path="level/level_coin_bg.png" />
+      <FilePathData Path="level/level_detail_starbg.png" />
+      <FilePathData Path="level/level_finish_flag.png" />
+      <FilePathData Path="level/level_gluad_light.png" />
+      <FilePathData Path="level/level_help.png" />
+      <FilePathData Path="level/level_item_bg.png" />
+      <FilePathData Path="level/level_item_disabl.png" />
+      <FilePathData Path="level/level_item_light.png" />
+      <FilePathData Path="level/level_line_dis.png" />
+      <FilePathData Path="level/level_line_nor.png" />
+      <FilePathData Path="level/level_little_star.png" />
+      <FilePathData Path="level/level_move_light.png" />
+      <FilePathData Path="level/level_number.png" />
+      <FilePathData Path="level/level_once_light.png" />
+      <FilePathData Path="level/level_once_unlock.png" />
+      <FilePathData Path="level/level_progress_gray1.png" />
+      <FilePathData Path="level/level_progress_yellw.png" />
+      <FilePathData Path="level/level_qucik_normal.png" />
+      <FilePathData Path="level/level_roundsBG.png" />
+      <FilePathData Path="level/level_task_bg.png" />
+      <FilePathData Path="level/level_tips_bg.png" />
+      <FilePathData Path="level/level_tips_boss.png" />
+      <FilePathData Path="level/level_top1_fell.png" />
+      <FilePathData Path="level/level_top1_half.png" />
+      <FilePathData Path="level/level_top2_bg.png" />
+      <FilePathData Path="level/level_top2_half.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

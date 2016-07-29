@@ -1,0 +1,21 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="ContinueLoginCmb" ID="aff5516a-c8fe-416d-ba3e-bbca6e2f29fd" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ContinueLogin/active_arrow.png" />
+      <FilePathData Path="ContinueLogin/btn_renew_vip_normal.png" />
+      <FilePathData Path="ContinueLogin/btn_renew_vip_selcet.png" />
+      <FilePathData Path="ContinueLogin/continue_bg.png" />
+      <FilePathData Path="ContinueLogin/continue_covered.png" />
+      <FilePathData Path="ContinueLogin/continue_light.png" />
+      <FilePathData Path="ContinueLogin/continue_login_title.png" />
+      <FilePathData Path="ContinueLogin/continue_receive_light.png" />
+      <FilePathData Path="ContinueLogin/dou.png" />
+      <FilePathData Path="ContinueLogin/today_collection.png" />
+      <FilePathData Path="ContinueLogin/vip_light.png" />
+      <FilePathData Path="ContinueLogin/vip_sign.png" />
+      <FilePathData Path="ContinueLogin/vip_title.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

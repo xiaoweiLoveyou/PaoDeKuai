@@ -1,0 +1,49 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="tableCmb" ID="6c11b817-67c1-4244-bf1a-afff27142262" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="table/btn_help.png" />
+      <FilePathData Path="table/btn_limittime_gift.png" />
+      <FilePathData Path="table/level_new.png" />
+      <FilePathData Path="table/oneline_people_numbers.png" />
+      <FilePathData Path="table/online_num.png" />
+      <FilePathData Path="table/table_coinbg.png" />
+      <FilePathData Path="table/table_item_touch.png" />
+      <FilePathData Path="table/table_quan_icon.png" />
+      <FilePathData Path="table/zhunru_icon.png" />
+      <FilePathData Path="table/init_instruct_hand.png" />
+      <FilePathData Path="table/table_dizhu.png" />
+      <FilePathData Path="table/table_num.png" />
+      <FilePathData Path="table/btn_limittime_gift_S.png" />
+      <FilePathData Path="table/bottom_bg.png" />
+      <FilePathData Path="table/btn_drop_down.png" />
+      <FilePathData Path="table/btn_quickstart.png" />
+      <FilePathData Path="table/btn_reword.png" />
+      <FilePathData Path="table/first_money_normal.png" />
+      <FilePathData Path="table/headBG_Normal.png" />
+      <FilePathData Path="table/headBG_VIP.png" />
+      <FilePathData Path="table/mail_box.png" />
+      <FilePathData Path="table/table_chuXiao.png" />
+      <FilePathData Path="table/table_double_sign.png" />
+      <FilePathData Path="table/table_getcoin_normal.png" />
+      <FilePathData Path="table/table_gift_normal.png" />
+      <FilePathData Path="table/table_help_normal.png" />
+      <FilePathData Path="table/table_item_bottom.png" />
+      <FilePathData Path="table/table_lesscoin.png" />
+      <FilePathData Path="table/table_myfare_normal.png" />
+      <FilePathData Path="table/table_normal_01.png" />
+      <FilePathData Path="table/table_normal_02.png" />
+      <FilePathData Path="table/table_normal_03.png" />
+      <FilePathData Path="table/table_normal_04.png" />
+      <FilePathData Path="table/table_normal_05.png" />
+      <FilePathData Path="table/table_normal_06.png" />
+      <FilePathData Path="table/table_rank_normal.png" />
+      <FilePathData Path="table/table_shezhi_normal.png" />
+      <FilePathData Path="table/table_shop_normal.png" />
+      <FilePathData Path="table/vip_mask.png" />
+      <FilePathData Path="table/table_scrollBg.png" />
+      <FilePathData Path="table/btn_back_normal.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

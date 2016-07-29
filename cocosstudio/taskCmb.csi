@@ -1,0 +1,26 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="taskCmb" ID="91c8a098-fa12-4f81-968d-e019a7c50793" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="task/btn_ Details.png" />
+      <FilePathData Path="task/btn_task_recieving_normal.png" />
+      <FilePathData Path="task/btn_task_recieving_select.png" />
+      <FilePathData Path="task/daily_task_coin_1.png" />
+      <FilePathData Path="task/daily_task_coin_2.png" />
+      <FilePathData Path="task/daily_task_icon.png" />
+      <FilePathData Path="task/reward_task_coin.png" />
+      <FilePathData Path="task/reward_task_icon.png" />
+      <FilePathData Path="task/reward_task_normal.png" />
+      <FilePathData Path="task/task_bg.png" />
+      <FilePathData Path="task/task_complete_light.png" />
+      <FilePathData Path="task/task_progressbg.png" />
+      <FilePathData Path="task/task_progressleft.png" />
+      <FilePathData Path="task/task_reward_already.png" />
+      <FilePathData Path="task/task_star_dark.png" />
+      <FilePathData Path="task/task_star_light.png" />
+      <FilePathData Path="task/taskdec_tip.png" />
+      <FilePathData Path="task/yellow_tip.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

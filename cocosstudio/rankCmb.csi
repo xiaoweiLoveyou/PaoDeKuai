@@ -1,0 +1,38 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="rankCmb" ID="d7a62293-943d-472e-ae13-cea2cfff072f" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="rank/rank_9ScaleBg.png" />
+      <FilePathData Path="rank/rank_duoBangBtn.png" />
+      <FilePathData Path="rank/rank_quickBtn.png" />
+      <FilePathData Path="rank/rank_zhaBtn_rm.png" />
+      <FilePathData Path="rank/rank_zhaBtn_sl.png" />
+      <FilePathData Path="rank/rank_awardBtn.png" />
+      <FilePathData Path="rank/rank_awardBtn1.png" />
+      <FilePathData Path="rank/rank_duoBangBtn1.png" />
+      <FilePathData Path="rank/rank_quickBtn1.png" />
+      <FilePathData Path="rank/charm_icon.png" />
+      <FilePathData Path="rank/rank_bg.png" />
+      <FilePathData Path="rank/rank_bg_rank3.png" />
+      <FilePathData Path="rank/rank_bg_rankother.png" />
+      <FilePathData Path="rank/rank_coin_normal.png" />
+      <FilePathData Path="rank/rank_coin_select.png" />
+      <FilePathData Path="rank/rank_first.png" />
+      <FilePathData Path="rank/rank_level_down.png" />
+      <FilePathData Path="rank/rank_level_null.png" />
+      <FilePathData Path="rank/rank_level_up.png" />
+      <FilePathData Path="rank/rank_point.png" />
+      <FilePathData Path="rank/rank_point_normal.png" />
+      <FilePathData Path="rank/rank_point_select.png" />
+      <FilePathData Path="rank/rank_rank_bg.png" />
+      <FilePathData Path="rank/rank_second.png" />
+      <FilePathData Path="rank/rank_selfhead_bg.png" />
+      <FilePathData Path="rank/rank_star_1.png" />
+      <FilePathData Path="rank/rank_star_2.png" />
+      <FilePathData Path="rank/rank_star_3.png" />
+      <FilePathData Path="rank/rank_third.png" />
+      <FilePathData Path="rank/title_rank.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

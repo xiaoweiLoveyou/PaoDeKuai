@@ -1,0 +1,13 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="GameEndCmb" ID="4784824b-22bd-4ec8-bfb3-8feeddd2d2ad" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="GameEnd/bomb_mask.png" />
+      <FilePathData Path="GameEnd/changescene_lignt.png" />
+      <FilePathData Path="GameEnd/loss_mask.png" />
+      <FilePathData Path="GameEnd/win_light.png" />
+      <FilePathData Path="GameEnd/win_mask.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

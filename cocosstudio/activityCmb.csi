@@ -1,0 +1,40 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="activityCmb" ID="6234709d-d747-4d75-b509-8938128cd0a4" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="activity/act_btn_normal.png" />
+      <FilePathData Path="activity/act_btn_select.png" />
+      <FilePathData Path="activity/act_continue_login_normal.png" />
+      <FilePathData Path="activity/act_continue_login_select.png" />
+      <FilePathData Path="activity/act_newer_award_normal.png" />
+      <FilePathData Path="activity/act_newer_award_select.png" />
+      <FilePathData Path="activity/act_notice_normal.png" />
+      <FilePathData Path="activity/act_notice_select.png" />
+      <FilePathData Path="activity/act_task_normal.png" />
+      <FilePathData Path="activity/act_task_select.png" />
+      <FilePathData Path="activity/act_vip_normal.png" />
+      <FilePathData Path="activity/act_vip_select.png" />
+      <FilePathData Path="activity/active_zs.png" />
+      <FilePathData Path="activity/btn_promotionsCancel.png" />
+      <FilePathData Path="activity/btn_promotionsPay_0.png" />
+      <FilePathData Path="activity/btn_promotionsPay_1.png" />
+      <FilePathData Path="activity/btn_promotionsPay_2.png" />
+      <FilePathData Path="activity/click_pay_tips.png" />
+      <FilePathData Path="activity/connect_tellphone.png" />
+      <FilePathData Path="activity/firstpay_normal.png" />
+      <FilePathData Path="activity/getreward_normal.png" />
+      <FilePathData Path="activity/new_goods_coin.png" />
+      <FilePathData Path="activity/new_goods_limit.png" />
+      <FilePathData Path="activity/new_goods_phone.png" />
+      <FilePathData Path="activity/new_goods_tips.png" />
+      <FilePathData Path="activity/cheap_tips.png" />
+      <FilePathData Path="activity/cheap_title.png" />
+      <FilePathData Path="activity/new_goods_value.png" />
+      <FilePathData Path="activity/new_goodsbg.png" />
+      <FilePathData Path="activity/not_partic_first.png" />
+      <FilePathData Path="activity/firstpaybg.png" />
+      <FilePathData Path="activity/hasGet.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1260" />
+  </Content>
+</PlistInfoProjectFile>

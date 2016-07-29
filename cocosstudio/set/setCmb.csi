@@ -1,0 +1,13 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="setCmb" ID="40553c6d-b484-45ca-bd38-f47b7e221991" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="set/option_setting_bg.png" />
+      <FilePathData Path="set/set_btn_off.png" />
+      <FilePathData Path="set/set_btn_on.png" />
+      <FilePathData Path="set/help/help_img.png" />
+      <FilePathData Path="set/help/title.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

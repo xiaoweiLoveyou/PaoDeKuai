@@ -1,0 +1,77 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="GameRoomCmb" ID="d0023695-61e8-40c6-a49e-2f9976bd8b7c" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="GameRoom/btn_gainCoin.png" />
+      <FilePathData Path="GameRoom/count_bg.png" />
+      <FilePathData Path="GameRoom/dizhu_numbers.png" />
+      <FilePathData Path="GameRoom/gametips_nobiggerpoker.png" />
+      <FilePathData Path="GameRoom/bei_guan.png" />
+      <FilePathData Path="GameRoom/btn_cardCount_notmal.png" />
+      <FilePathData Path="GameRoom/btn_double.png" />
+      <FilePathData Path="GameRoom/btn_not_double.png" />
+      <FilePathData Path="GameRoom/card_task_jiantou.png" />
+      <FilePathData Path="GameRoom/CardTask_Bg.png" />
+      <FilePathData Path="GameRoom/CardTask_Reword.png" />
+      <FilePathData Path="GameRoom/change_table_normal.png" />
+      <FilePathData Path="GameRoom/change_table_select.png" />
+      <FilePathData Path="GameRoom/changetable_normal.png" />
+      <FilePathData Path="GameRoom/changetable_select.png" />
+      <FilePathData Path="GameRoom/chat_normal.png" />
+      <FilePathData Path="GameRoom/chat_select.png" />
+      <FilePathData Path="GameRoom/clock_bg.png" />
+      <FilePathData Path="GameRoom/clock_bg_top.png" />
+      <FilePathData Path="GameRoom/coin.png" />
+      <FilePathData Path="GameRoom/double_sign.png" />
+      <FilePathData Path="GameRoom/exit_normal.png" />
+      <FilePathData Path="GameRoom/exit_select.png" />
+      <FilePathData Path="GameRoom/face_normal.png" />
+      <FilePathData Path="GameRoom/face_select.png" />
+      <FilePathData Path="GameRoom/fares.png" />
+      <FilePathData Path="GameRoom/game_bg_top.png" />
+      <FilePathData Path="GameRoom/game_double_sign.png" />
+      <FilePathData Path="GameRoom/game_no_normal.png" />
+      <FilePathData Path="GameRoom/game_no_select.png" />
+      <FilePathData Path="GameRoom/game_notdouble_sign.png" />
+      <FilePathData Path="GameRoom/game_ok_normal.png" />
+      <FilePathData Path="GameRoom/game_ok_select.png" />
+      <FilePathData Path="GameRoom/game_option_normal.png" />
+      <FilePathData Path="GameRoom/game_option_select.png" />
+      <FilePathData Path="GameRoom/illegal_poker_type.png" />
+      <FilePathData Path="GameRoom/jifen_bg.png" />
+      <FilePathData Path="GameRoom/jifen_btn.png" />
+      <FilePathData Path="GameRoom/jifen_life_0.png" />
+      <FilePathData Path="GameRoom/jifen_life_1.png" />
+      <FilePathData Path="GameRoom/lsts.png" />
+      <FilePathData Path="GameRoom/more_coins.png" />
+      <FilePathData Path="GameRoom/msg_tips_bg.png" />
+      <FilePathData Path="GameRoom/net_error.png" />
+      <FilePathData Path="GameRoom/online_treasure.png" />
+      <FilePathData Path="GameRoom/out_disabled.png" />
+      <FilePathData Path="GameRoom/out_normal.png" />
+      <FilePathData Path="GameRoom/out_select.png" />
+      <FilePathData Path="GameRoom/pass.png" />
+      <FilePathData Path="GameRoom/pay_all.png" />
+      <FilePathData Path="GameRoom/prompt_normal.png" />
+      <FilePathData Path="GameRoom/prompt_select.png" />
+      <FilePathData Path="GameRoom/ready.png" />
+      <FilePathData Path="GameRoom/ready_normal.png" />
+      <FilePathData Path="GameRoom/ready_select.png" />
+      <FilePathData Path="GameRoom/room_imgClockBg.png" />
+      <FilePathData Path="GameRoom/room_imgTop.png" />
+      <FilePathData Path="GameRoom/scene_des.png" />
+      <FilePathData Path="GameRoom/tip_cannot_double.png" />
+      <FilePathData Path="GameRoom/tips_bg.png" />
+      <FilePathData Path="GameRoom/trustee.png" />
+      <FilePathData Path="GameRoom/trustee_normal.png" />
+      <FilePathData Path="GameRoom/trustee_select.png" />
+      <FilePathData Path="GameRoom/un_turstee_normal.png" />
+      <FilePathData Path="GameRoom/un_turstee_select.png" />
+      <FilePathData Path="GameRoom/word_playerinfo.png" />
+      <FilePathData Path="GameRoom/girl_flag.png" />
+      <FilePathData Path="GameRoom/boy_flag.png" />
+      <FilePathData Path="GameRoom/headbg_normal.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

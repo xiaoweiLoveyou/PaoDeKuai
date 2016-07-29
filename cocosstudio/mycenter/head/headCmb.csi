@@ -1,0 +1,30 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="headCmb" ID="281e1312-ae7c-414f-95bc-4dd78a58d34e" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="mycenter/head/head_0.png" />
+      <FilePathData Path="mycenter/head/head_1.png" />
+      <FilePathData Path="mycenter/head/head_10.png" />
+      <FilePathData Path="mycenter/head/head_11.png" />
+      <FilePathData Path="mycenter/head/head_12.png" />
+      <FilePathData Path="mycenter/head/head_13.png" />
+      <FilePathData Path="mycenter/head/head_14.png" />
+      <FilePathData Path="mycenter/head/head_15.png" />
+      <FilePathData Path="mycenter/head/head_16.png" />
+      <FilePathData Path="mycenter/head/head_17.png" />
+      <FilePathData Path="mycenter/head/head_18.png" />
+      <FilePathData Path="mycenter/head/head_19.png" />
+      <FilePathData Path="mycenter/head/head_2.png" />
+      <FilePathData Path="mycenter/head/head_3.png" />
+      <FilePathData Path="mycenter/head/head_4.png" />
+      <FilePathData Path="mycenter/head/head_5.png" />
+      <FilePathData Path="mycenter/head/head_6.png" />
+      <FilePathData Path="mycenter/head/head_7.png" />
+      <FilePathData Path="mycenter/head/head_8.png" />
+      <FilePathData Path="mycenter/head/head_9.png" />
+      <FilePathData Path="mycenter/head/change_head_bg.png" />
+      <FilePathData Path="mycenter/head/defaultHead.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

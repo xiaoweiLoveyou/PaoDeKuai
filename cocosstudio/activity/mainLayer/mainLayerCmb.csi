@@ -1,0 +1,20 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="mainLayerCmb" ID="44cbed73-c94d-4b5d-b29c-b569bf12cf9c" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="activity/mainLayer/act_btnClose.png" />
+      <FilePathData Path="activity/mainLayer/act_btnContinueLogin_N.png" />
+      <FilePathData Path="activity/mainLayer/act_btnContinueLogin_S.png" />
+      <FilePathData Path="activity/mainLayer/act_btnDaylyTask_N.png" />
+      <FilePathData Path="activity/mainLayer/act_btnDaylyTask_S.png" />
+      <FilePathData Path="activity/mainLayer/act_btnSysTask_N.png" />
+      <FilePathData Path="activity/mainLayer/act_btnSysTask_S.png" />
+      <FilePathData Path="activity/mainLayer/act_imgBg.png" />
+      <FilePathData Path="activity/mainLayer/continue_imgTitle.png" />
+      <FilePathData Path="activity/mainLayer/task_imgDaly.png" />
+      <FilePathData Path="activity/mainLayer/task_imgSystem.png" />
+      <FilePathData Path="activity/mainLayer/GameCountTip_imgWord2.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

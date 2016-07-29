@@ -1,0 +1,80 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="BtnTittleCmb" ID="cc59cf6a-8c99-4fb6-a741-8107b64d2703" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="BtnTittle/btn_again_normal.png" />
+      <FilePathData Path="BtnTittle/btn_apply_match_normal.png" />
+      <FilePathData Path="BtnTittle/btn_apply_normal.png" />
+      <FilePathData Path="BtnTittle/btn_apply_vip_normal.png" />
+      <FilePathData Path="BtnTittle/btn_become_vip.png" />
+      <FilePathData Path="BtnTittle/btn_calllandowner_unclicked.png" />
+      <FilePathData Path="BtnTittle/btn_cancle_match_normal.png" />
+      <FilePathData Path="BtnTittle/btn_cancle_normal.png" />
+      <FilePathData Path="BtnTittle/btn_challenge_disable.png" />
+      <FilePathData Path="BtnTittle/btn_challenge_normal.png" />
+      <FilePathData Path="BtnTittle/btn_cheap_get.png" />
+      <FilePathData Path="BtnTittle/btn_continu_pk.png" />
+      <FilePathData Path="BtnTittle/btn_delete.png" />
+      <FilePathData Path="BtnTittle/btn_double_disable.png" />
+      <FilePathData Path="BtnTittle/btn_double_unclicked.png" />
+      <FilePathData Path="BtnTittle/btn_exchange_ex.png" />
+      <FilePathData Path="BtnTittle/btn_exchange_goto.png" />
+      <FilePathData Path="BtnTittle/btn_exit_normal.png" />
+      <FilePathData Path="BtnTittle/btn_goto_get.png" />
+      <FilePathData Path="BtnTittle/btn_goto_get_dis.png" />
+      <FilePathData Path="BtnTittle/Btn_GotoTable.png" />
+      <FilePathData Path="BtnTittle/btn_grablandowner_unclicked.png" />
+      <FilePathData Path="BtnTittle/btn_key_delete.png" />
+      <FilePathData Path="BtnTittle/btn_morecoin_normal.png" />
+      <FilePathData Path="BtnTittle/btn_next_challen.png" />
+      <FilePathData Path="BtnTittle/btn_notcall_unclicked.png" />
+      <FilePathData Path="BtnTittle/btn_notdouble_unclicked.png" />
+      <FilePathData Path="BtnTittle/btn_notgrab_unclicked.png" />
+      <FilePathData Path="BtnTittle/btn_notout_disable.png" />
+      <FilePathData Path="BtnTittle/btn_notout_unclicked.png" />
+      <FilePathData Path="BtnTittle/btn_ok_normal.png" />
+      <FilePathData Path="BtnTittle/btn_one_min.png" />
+      <FilePathData Path="BtnTittle/btn_one_min_dis.png" />
+      <FilePathData Path="BtnTittle/btn_outpoker_disable.png" />
+      <FilePathData Path="BtnTittle/btn_outpoker_unclicked.png" />
+      <FilePathData Path="BtnTittle/btn_prompt_disable.png" />
+      <FilePathData Path="BtnTittle/btn_prompt_unclicked.png" />
+      <FilePathData Path="BtnTittle/btn_quickStart.png" />
+      <FilePathData Path="BtnTittle/btn_rechallenge.png" />
+      <FilePathData Path="BtnTittle/btn_rechallenge_disable.png" />
+      <FilePathData Path="BtnTittle/btn_recive_normal.png" />
+      <FilePathData Path="BtnTittle/btn_rightpay_unclick.png" />
+      <FilePathData Path="BtnTittle/btn_save_exit.png" />
+      <FilePathData Path="BtnTittle/btn_showpoker_disable.png" />
+      <FilePathData Path="BtnTittle/btn_showpoker_unclicked.png" />
+      <FilePathData Path="BtnTittle/btn_showpokerbegin_unclicked.png" />
+      <FilePathData Path="BtnTittle/btn_swap.png" />
+      <FilePathData Path="BtnTittle/btn_three_min.png" />
+      <FilePathData Path="BtnTittle/Btn_Tittle_Match_continue.png" />
+      <FilePathData Path="BtnTittle/Btn_Tittle_MatchReturn.png" />
+      <FilePathData Path="BtnTittle/Btn_Tittle_MatchReturn_yellow.png" />
+      <FilePathData Path="BtnTittle/btn_tittle_onlinegame.png" />
+      <FilePathData Path="BtnTittle/btn_two_min.png" />
+      <FilePathData Path="BtnTittle/btn_two_min_dis.png" />
+      <FilePathData Path="BtnTittle/btn_upStar.png" />
+      <FilePathData Path="BtnTittle/btn_Vrecieve_disabled.png" />
+      <FilePathData Path="BtnTittle/btn_Vrecieve_normal.png" />
+      <FilePathData Path="BtnTittle/firstpay_normal.png" />
+      <FilePathData Path="BtnTittle/getreward_normal.png" />
+      <FilePathData Path="BtnTittle/openall_disable.png" />
+      <FilePathData Path="BtnTittle/openall_normal.png" />
+      <FilePathData Path="BtnTittle/pay_click.png" />
+      <FilePathData Path="BtnTittle/tittle_chargeTable.png" />
+      <FilePathData Path="BtnTittle/tittle_goodStart.png" />
+      <FilePathData Path="BtnTittle/tittle_sendmsg.png" />
+      <FilePathData Path="BtnTittle/tittle_start.png" />
+      <FilePathData Path="BtnTittle/com_btn_grew_disable.png" />
+      <FilePathData Path="BtnTittle/com_btn_grew_normal.png" />
+      <FilePathData Path="BtnTittle/com_btn_yellow_disable.png" />
+      <FilePathData Path="BtnTittle/com_btn_yellow_normal.png" />
+      <FilePathData Path="BtnTittle/small_btn_yellow_disable.png" />
+      <FilePathData Path="BtnTittle/small_btn_yellow_normal.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

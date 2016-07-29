@@ -1,0 +1,12 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="noCoinCmb" ID="117b6fb5-4d17-4516-b667-77179cdc31f3" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="noCoinPay/noCoinPay_tipBg.png" />
+      <FilePathData Path="noCoinPay/noCoinPay_title.png" />
+      <FilePathData Path="noCoinPay/noCoinPay_wordBg.png" />
+      <FilePathData Path="common/noCoin_bg.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

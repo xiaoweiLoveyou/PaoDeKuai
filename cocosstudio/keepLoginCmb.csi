@@ -1,0 +1,18 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="keepLoginCmb" ID="b12acc3a-9588-455a-83f0-9d8ec38444bc" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="keeplogin/continue_fare_bg.png" />
+      <FilePathData Path="keeplogin/continue_get_light.png" />
+      <FilePathData Path="keeplogin/continue_recieved.png" />
+      <FilePathData Path="keeplogin/continue_recieving.png" />
+      <FilePathData Path="keeplogin/gain_coin.png" />
+      <FilePathData Path="keeplogin/gain_flag.png" />
+      <FilePathData Path="keeplogin/keeplogin_notvip.png" />
+      <FilePathData Path="keeplogin/keeplogin_svip.png" />
+      <FilePathData Path="keeplogin/keeplogin_vip.png" />
+      <FilePathData Path="keeplogin/received_sign.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

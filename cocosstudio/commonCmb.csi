@@ -1,0 +1,59 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="commonCmb" ID="42f2de08-1989-4ea2-8c53-a6dbbf7fee83" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="common/neterror.png" />
+      <FilePathData Path="common/bottom_bg_cover.png" />
+      <FilePathData Path="common/btn_apply_normal.png" />
+      <FilePathData Path="common/btn_back_normal.png" />
+      <FilePathData Path="common/btn_buy_immediately_normal.png" />
+      <FilePathData Path="common/btn_buyBean.png" />
+      <FilePathData Path="common/btn_close_normal.png" />
+      <FilePathData Path="common/btn_close_select.png" />
+      <FilePathData Path="common/btn_experience_nromal.png" />
+      <FilePathData Path="common/btn_get_immediately.png" />
+      <FilePathData Path="common/btn_getGift_normal.png" />
+      <FilePathData Path="common/btn_green_normal.png" />
+      <FilePathData Path="common/btn_more_coin.png" />
+      <FilePathData Path="common/btn_my_DHQ.png" />
+      <FilePathData Path="common/btn_normal_quickStart.png" />
+      <FilePathData Path="common/btn_recieve_disabled.png" />
+      <FilePathData Path="common/btn_recieve_normal.png" />
+      <FilePathData Path="common/btn_word_delete.png" />
+      <FilePathData Path="common/btn_word_go.png" />
+      <FilePathData Path="common/common_dlg_bg.png" />
+      <FilePathData Path="common/hall_cancel_normal.png" />
+      <FilePathData Path="common/hall_cancel_select.png" />
+      <FilePathData Path="common/hall_ok_normal.png" />
+      <FilePathData Path="common/hall_ok_select.png" />
+      <FilePathData Path="common/info_mark.png" />
+      <FilePathData Path="common/pay_bg.png" />
+      <FilePathData Path="common/youxidou.png" />
+      <FilePathData Path="common/common_bottomBg.png" />
+      <FilePathData Path="common/common_itemBg.png" />
+      <FilePathData Path="CardCount/cardCount_bg.png" />
+      <FilePathData Path="common/btn_cancel_normal.png" />
+      <FilePathData Path="common/btn_cancel_select.png" />
+      <FilePathData Path="common/btn_sure_normal.png" />
+      <FilePathData Path="common/btn_sure_select.png" />
+      <FilePathData Path="common/black_bg.png" />
+      <FilePathData Path="common/cell_bg.png" />
+      <FilePathData Path="common/top_icon_bg.png" />
+      <FilePathData Path="common/top_icon_bg2.png" />
+      <FilePathData Path="common/HallBg.png" />
+      <FilePathData Path="common/common_top_bg.png" />
+      <FilePathData Path="common/scene_bg.png" />
+      <FilePathData Path="common/sprite_loading.png" />
+      <FilePathData Path="common/spritescale9_rounded_blue.png" />
+      <FilePathData Path="common/spritescale9_rounded_null.png" />
+      <FilePathData Path="common/spritescale9_rounded_white.png" />
+      <FilePathData Path="common/topGongGaoBG.png" />
+      <FilePathData Path="common/user_detail_lady.png" />
+      <FilePathData Path="common/user_detail_man.png" />
+      <FilePathData Path="common/white_bg.png" />
+      <FilePathData Path="common/white_dot.png" />
+      <FilePathData Path="common/YXD.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,19 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="EmailCmb" ID="15865bb0-ff9b-4c94-a07a-ad871b0bb101" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="EmailPopView/noEmail.png" />
+      <FilePathData Path="EmailPopView/btnImg.png" />
+      <FilePathData Path="EmailPopView/changQuan_bg.png" />
+      <FilePathData Path="EmailPopView/changQuan_btn.png" />
+      <FilePathData Path="EmailPopView/changQuan_title.png" />
+      <FilePathData Path="EmailPopView/duiHuanIcon_btn.png" />
+      <FilePathData Path="EmailPopView/duiHuanMa_bg.png" />
+      <FilePathData Path="EmailPopView/email_btn_del.png" />
+      <FilePathData Path="EmailPopView/email_single_bg.png" />
+      <FilePathData Path="EmailPopView/email_title.png" />
+      <FilePathData Path="EmailPopView/duiHuanIcon_btn_S.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

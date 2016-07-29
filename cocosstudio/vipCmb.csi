@@ -1,0 +1,18 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="vipCmb" ID="0916d1d1-a7c1-4e27-83fb-069142bc607e" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="vip/btn_apply_vip.png" />
+      <FilePathData Path="vip/NOTVIP.png" />
+      <FilePathData Path="vip/notvip_bg.png" />
+      <FilePathData Path="vip/VIP.png" />
+      <FilePathData Path="vip/vip_bg.png" />
+      <FilePathData Path="vip/vip_colon.png" />
+      <FilePathData Path="vip/vip_sign.png" />
+      <FilePathData Path="vip/vip_star.png" />
+      <FilePathData Path="vip/VIP_time_bg.png" />
+      <FilePathData Path="vip/viplayer_SVIP.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

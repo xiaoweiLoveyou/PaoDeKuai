@@ -1,0 +1,34 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="chaoZhiCmb" ID="9e41df58-3bc3-4aa7-b770-5c3973a70933" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="activity/chaoZhi/chaoZhi_btn_buy.png" />
+      <FilePathData Path="activity/chaoZhi/chaoZhi_btn_cancel.png" />
+      <FilePathData Path="activity/chaoZhi/chaoZhi_imgBg.png" />
+      <FilePathData Path="activity/chaoZhi/chaoZhi_imgDes.png" />
+      <FilePathData Path="activity/chaoZhi/chaoZhi_imgSuo.png" />
+      <FilePathData Path="activity/chaoZhi/chaoZhi_imgSvip.png" />
+      <FilePathData Path="activity/chaoZhi/chaoZhi_imgTip.png" />
+      <FilePathData Path="activity/chaoZhi/chaoZhi_imgTitle.png" />
+      <FilePathData Path="activity/chaoZhi/chaoZhi_btn_1_F.png" />
+      <FilePathData Path="activity/chaoZhi/chaoZhi_btn_1_N.png" />
+      <FilePathData Path="activity/chaoZhi/chaoZhi_btn_1_S.png" />
+      <FilePathData Path="activity/chaoZhi/chaoZhi_btn_2_F.png" />
+      <FilePathData Path="activity/chaoZhi/chaoZhi_btn_2_N.png" />
+      <FilePathData Path="activity/chaoZhi/chaoZhi_btn_2_S.png" />
+      <FilePathData Path="activity/chaoZhi/chaoZhi_btn_3_F.png" />
+      <FilePathData Path="activity/chaoZhi/chaoZhi_btn_3_N.png" />
+      <FilePathData Path="activity/chaoZhi/chaoZhi_btn_3_S.png" />
+      <FilePathData Path="activity/chaoZhi/chaoZhi_btn_buy_F.png" />
+      <FilePathData Path="activity/chaoZhi/chaoZhi_imgTipBg.png" />
+      <FilePathData Path="activity/chaoZhi/chaoZhi_jianTou_1.png" />
+      <FilePathData Path="activity/chaoZhi/chaoZhi_jianTou_2.png" />
+      <FilePathData Path="activity/chaoZhi/chaoZhi_jianTou_3.png" />
+      <FilePathData Path="activity/chaoZhi/img_oldMoneyBg.png" />
+      <FilePathData Path="activity/chaoZhi/chaozhi_btn_sure.png" />
+      <FilePathData Path="activity/chaoZhi/chaoZhi_btn_buy1.png" />
+      <FilePathData Path="activity/chaoZhi/chaoZhi_btn_cancel1.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

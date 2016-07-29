@@ -1,0 +1,6 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="setCmb" ID="1b138d72-f0cd-4da4-8f78-40c1a501ad19" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

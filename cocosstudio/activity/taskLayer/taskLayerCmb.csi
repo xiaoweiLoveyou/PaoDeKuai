@@ -1,0 +1,27 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="taskLayerCmb" ID="d7661674-82bc-449c-91ff-a07bccad0818" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="activity/taskLayer/task_barBg.png" />
+      <FilePathData Path="activity/taskLayer/task_btn_F.png" />
+      <FilePathData Path="activity/taskLayer/task_btn_N.png" />
+      <FilePathData Path="activity/taskLayer/task_imgBar.png" />
+      <FilePathData Path="activity/taskLayer/task_imgBg.png" />
+      <FilePathData Path="activity/taskLayer/task_imgDaly.png" />
+      <FilePathData Path="activity/taskLayer/task_imgIcon_1.png" />
+      <FilePathData Path="activity/taskLayer/task_imgIcon_2.png" />
+      <FilePathData Path="activity/taskLayer/task_imgIcon_10.png" />
+      <FilePathData Path="activity/taskLayer/task_imgIcon_11.png" />
+      <FilePathData Path="activity/taskLayer/task_imgIcon_12.png" />
+      <FilePathData Path="activity/taskLayer/task_imgIcon_3.png" />
+      <FilePathData Path="activity/taskLayer/task_imgIcon_4.png" />
+      <FilePathData Path="activity/taskLayer/task_imgIcon_5.png" />
+      <FilePathData Path="activity/taskLayer/task_imgIcon_6.png" />
+      <FilePathData Path="activity/taskLayer/task_imgIcon_7.png" />
+      <FilePathData Path="activity/taskLayer/task_imgIcon_8.png" />
+      <FilePathData Path="activity/taskLayer/task_imgIcon_9.png" />
+      <FilePathData Path="activity/taskLayer/cz_imgSvip.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

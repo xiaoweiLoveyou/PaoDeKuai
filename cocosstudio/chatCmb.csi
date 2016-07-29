@@ -1,0 +1,22 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="chatCmb" ID="b8975cca-2955-4919-8dca-a1d0cba9b2f4" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="chat/chat_popo.png" />
+      <FilePathData Path="chat/chat_popo_self.png" />
+      <FilePathData Path="chat/bnt_custom_selected.png" />
+      <FilePathData Path="chat/bnt_custom_unselect.png" />
+      <FilePathData Path="chat/bnt_face_selected.png" />
+      <FilePathData Path="chat/bnt_face_unselect.png" />
+      <FilePathData Path="chat/bnt_send_click.png" />
+      <FilePathData Path="chat/bnt_send_disable.png" />
+      <FilePathData Path="chat/bnt_send_unclick.png" />
+      <FilePathData Path="chat/bt_chat_record_normal.png" />
+      <FilePathData Path="chat/bt_chat_record_select.png" />
+      <FilePathData Path="chat/cell_cover.png" />
+      <FilePathData Path="chat/chat_top_icon.png" />
+      <FilePathData Path="chat/word_bg.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

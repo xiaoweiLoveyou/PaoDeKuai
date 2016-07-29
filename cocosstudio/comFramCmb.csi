@@ -1,0 +1,27 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="comFramCmb" ID="f1a3fc91-49b6-4735-b00f-8e07913e81ba" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonframe/base_frame_1.png" />
+      <FilePathData Path="commonframe/base_frame_10.png" />
+      <FilePathData Path="commonframe/base_frame_11.png" />
+      <FilePathData Path="commonframe/base_frame_12.png" />
+      <FilePathData Path="commonframe/base_frame_13.png" />
+      <FilePathData Path="commonframe/base_frame_14.png" />
+      <FilePathData Path="commonframe/base_frame_15.png" />
+      <FilePathData Path="commonframe/base_frame_2.png" />
+      <FilePathData Path="commonframe/base_frame_2_1.png" />
+      <FilePathData Path="commonframe/base_frame_3.png" />
+      <FilePathData Path="commonframe/base_frame_4.png" />
+      <FilePathData Path="commonframe/base_frame_5.png" />
+      <FilePathData Path="commonframe/base_frame_6.png" />
+      <FilePathData Path="commonframe/base_frame_7.png" />
+      <FilePathData Path="commonframe/base_frame_8.png" />
+      <FilePathData Path="commonframe/base_frame_8_1.png" />
+      <FilePathData Path="commonframe/base_frame_9.png" />
+      <FilePathData Path="commonframe/base_frame_matchwait.png" />
+      <FilePathData Path="commonframe/user_detail_btmbg.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,36 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="NewerGuideCmb" ID="0313fd55-3606-4c49-952b-25be3ddc0242" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="NewerGuide/arrow.png" />
+      <FilePathData Path="NewerGuide/arrow2.png" />
+      <FilePathData Path="NewerGuide/backHall.png" />
+      <FilePathData Path="NewerGuide/buJiao.png" />
+      <FilePathData Path="NewerGuide/buQiang.png" />
+      <FilePathData Path="NewerGuide/buYong.png" />
+      <FilePathData Path="NewerGuide/cancelBtn.png" />
+      <FilePathData Path="NewerGuide/getAward.png" />
+      <FilePathData Path="NewerGuide/jiaoDiZhu.png" />
+      <FilePathData Path="NewerGuide/light.png" />
+      <FilePathData Path="NewerGuide/nextStep.png" />
+      <FilePathData Path="NewerGuide/person.png" />
+      <FilePathData Path="NewerGuide/qiangDiZhu.png" />
+      <FilePathData Path="NewerGuide/quickBegin.png" />
+      <FilePathData Path="NewerGuide/start.png" />
+      <FilePathData Path="NewerGuide/tip_0.png" />
+      <FilePathData Path="NewerGuide/tip_1.png" />
+      <FilePathData Path="NewerGuide/tip_11.png" />
+      <FilePathData Path="NewerGuide/tip_2.png" />
+      <FilePathData Path="NewerGuide/tip_3.png" />
+      <FilePathData Path="NewerGuide/tip_4.png" />
+      <FilePathData Path="NewerGuide/tip_5.png" />
+      <FilePathData Path="NewerGuide/tip_51.png" />
+      <FilePathData Path="NewerGuide/tip_52.png" />
+      <FilePathData Path="NewerGuide/tip_53.png" />
+      <FilePathData Path="NewerGuide/tip_54.png" />
+      <FilePathData Path="NewerGuide/tip_6.png" />
+      <FilePathData Path="NewerGuide/tip_WanCheng.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1800" />
+  </Content>
+</PlistInfoProjectFile>
